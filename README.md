@@ -6,8 +6,7 @@
     <br />🍉 Take a look at my stats  🌱
     <br />Xi’an University of Posts & Telecommunications
     <br />XUPT BigData AI Lab of Xi'an University Of Posts & Telecommunications.
-
-
+	  <br />2024届 本科在读
   </samp>
 
 <p align="center">
