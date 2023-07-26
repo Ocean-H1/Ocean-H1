@@ -10,7 +10,9 @@
   </samp>
 
 <p align="center">
-	<a><img  alt="grid-snake" src="https://raw.githubusercontent.com/huangyulie/huangyulie/main/assets/github-contribution-grid-snake.svg"></a>
+	<a><img  alt="grid-snake" src="https://raw.githubusercontent.com/Ocean-H1/Ocean-H1/output/github-contribution-grid-snake.svg"></a>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
 
 <p align="right">
@@ -25,7 +27,7 @@
 </p>
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </p>
 
