@@ -1,39 +1,39 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px">
-  <br><br />
-  <samp>
-    😆 Hey!I'm OceanH. Welcome to my profile
-    <br />🍉 Take a look at my stats  🌱
-    <br />Xi’an University of Posts & Telecommunications
-    <br />XUPT BigData AI Lab of Xi'an University Of Posts & Telecommunications.
-	  <br />2024届 本科在读
-  </samp>
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ocean-H1&data=followers,repositories,stars,commits)
 
-<p align="center">
-	<a><img  alt="grid-snake" src="https://raw.githubusercontent.com/Ocean-H1/Ocean-H1/output/github-contribution-grid-snake.svg"></a>
-  <!--START_SECTION:waka-->
-  
-  <!--END_SECTION:waka-->
-</p>
+## 👋 hi，这里是 OceanH
 
-<p align="right">
-    <a><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-    <a><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
-    <a><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a> 
-    <a><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
-    <a><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a> 
-    <a><img height="20" alt="electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></a> 
-    <a><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></a> 
-    <a><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a> 
-</p>
+- 西安邮电大学 / 2024 届 / 本科在读
+- 👦 一名前端开发者(实习 ing ～) - 📍 西安
+- 🚀 持续学习，持续输出 ~
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+## 🎉 你可以从这些地方了解我...
 
-</p>
+- [我的博客](https://oceanh.top)
+- [CSDN](https://blog.csdn.net/qq_51368103?spm=1000.2115.3001.5343)
+- [BiliBili](https://space.bilibili.com/382688944/favlist)
 
-<br />
+## 🚀 技能 & 正在学习的
 
-<p align="center">
-	<a><img  alt="activity-graph" src="https://activity-graph.herokuapp.com/graph?username=Ocean-H1&theme=xcode"></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=vite,vue,react,electron,webpack,nodejs,js,ts,c)](https://github.com/qc2168)
+
+![rainbow gif](https://raw.githubusercontent.com/Ocean-H1/Ocean-H1/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+## 🐍 它正在吃掉我的小绿点
+
+![snake gif](https://raw.githubusercontent.com/Ocean-H1/Ocean-H1/output/github-contribution-grid-snake.svg)
+
+<!--START_SECTION:waka-->
+
+**I Mostly Code in TypeScript**
+
+<!--END_SECTION:waka-->
+
+## ⚡ 最近
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
