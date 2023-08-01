@@ -6,6 +6,7 @@
 - 🏫 西安邮电大学 / 2024 届 / 本科在读
 - 🧐 XUPT 大数据与人工智能实验室 / web 前端小组
 - 🚀 持续学习，持续输出 ~
+- Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/Ocean_H1/count.svg) visitor, thank you !
 
 ## 🎉 你可以从这些地方了解我...
 
@@ -22,9 +23,6 @@
 ## 🐍 它正在吃掉我的小绿点
 
 ![snake gif](https://raw.githubusercontent.com/Ocean-H1/Ocean-H1/output/github-contribution-grid-snake.svg)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## ⚡ 最近
 
