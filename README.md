@@ -27,15 +27,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tnfe/FEDiagram](https://github.com/tnfe/FEDiagram)<br>
-2. ⭐ Starred [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)<br>
-3. ⭐ Starred [ikun-svelte/ikun-ui](https://github.com/ikun-svelte/ikun-ui)<br>
-4. ⭐ Starred [Ocean-H1/ohblog](https://github.com/Ocean-H1/ohblog)<br>
-5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/ohblog](https://github.com/Ocean-H1/ohblog)<br>
+1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/ohblog](https://github.com/Ocean-H1/ohblog)<br>
+2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/ohblog](https://github.com/Ocean-H1/ohblog)<br>
+3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed)<br>
+4. ⭐ Starred [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)<br>
+5. ⭐ Starred [denoland/fresh](https://github.com/denoland/fresh)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 10th, 2023, 6:07:41 AM
+Last Updated: Friday, August 11th, 2023, 6:07:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
