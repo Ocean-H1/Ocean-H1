@@ -27,15 +27,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base)<br>
-2. ⭐ Starred [woai30231/javascriptThreadStudy](https://github.com/woai30231/javascriptThreadStudy)<br>
-3. ⭐ Starred [woai30231/http](https://github.com/woai30231/http)<br>
-4. ⭐ Starred [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas)<br>
-5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/leetcode-exercises](https://github.com/Ocean-H1/leetcode-exercises)<br>
+1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/leetcode-exercises](https://github.com/Ocean-H1/leetcode-exercises)<br>
+2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/leetcode-exercises](https://github.com/Ocean-H1/leetcode-exercises)<br>
+3. ⭐ Starred [vercel/swr](https://github.com/vercel/swr)<br>
+4. ⭐ Starred [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base)<br>
+5. ⭐ Starred [woai30231/javascriptThreadStudy](https://github.com/woai30231/javascriptThreadStudy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 23rd, 2023, 6:07:18 AM
+Last Updated: Thursday, August 24th, 2023, 6:07:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
