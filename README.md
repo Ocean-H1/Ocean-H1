@@ -27,15 +27,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/ohblog](https://github.com/Ocean-H1/ohblog)<br>
+1. ⭐ Starred [itcharge/LeetCode-Py](https://github.com/itcharge/LeetCode-Py)<br>
 2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/ohblog](https://github.com/Ocean-H1/ohblog)<br>
-3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/my-station](https://github.com/Ocean-H1/my-station)<br>
-4. ⭐ Starred [chodocs/chodocs](https://github.com/chodocs/chodocs)<br>
-5. ⭐ Starred [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)<br>
+3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/ohblog](https://github.com/Ocean-H1/ohblog)<br>
+4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/my-station](https://github.com/Ocean-H1/my-station)<br>
+5. ⭐ Starred [chodocs/chodocs](https://github.com/chodocs/chodocs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 17th, 2023, 6:08:25 AM
+Last Updated: Wednesday, October 18th, 2023, 6:08:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
