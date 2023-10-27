@@ -27,15 +27,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/ShaoYanHang/-/issues/1) in [ShaoYanHang/-](https://github.com/ShaoYanHang/-)<br>
-2. ⭐ Starred [Tencent/APIJSON](https://github.com/Tencent/APIJSON)<br>
-3. ⭐ Starred [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss)<br>
-4. ❗️ Opened issue [#1](https://github.com/ShaoYanHang/-/issues/1) in [ShaoYanHang/-](https://github.com/ShaoYanHang/-)<br>
-5. ⭐ Starred [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series)<br>
+1. ⭐ Starred [ATQQ/sugar-blog](https://github.com/ATQQ/sugar-blog)<br>
+2. ✔️ Closed issue [#1](https://github.com/ShaoYanHang/-/issues/1) in [ShaoYanHang/-](https://github.com/ShaoYanHang/-)<br>
+3. ⭐ Starred [Tencent/APIJSON](https://github.com/Tencent/APIJSON)<br>
+4. ⭐ Starred [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss)<br>
+5. ❗️ Opened issue [#1](https://github.com/ShaoYanHang/-/issues/1) in [ShaoYanHang/-](https://github.com/ShaoYanHang/-)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 26th, 2023, 6:07:46 AM
+Last Updated: Friday, October 27th, 2023, 6:07:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
