@@ -27,15 +27,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Simon-He95/lazy-js-utils](https://github.com/Simon-He95/lazy-js-utils)<br>
-2. ⭐ Starred [su37josephxia/wheel-awesome](https://github.com/su37josephxia/wheel-awesome)<br>
-3. ⭐ Starred [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
-4. ⭐ Starred [umijs/dumi](https://github.com/umijs/dumi)<br>
-5. ⭐ Starred [RubyLouvre/mobileHack](https://github.com/RubyLouvre/mobileHack)<br>
+1. ⭐ Starred [umijs/qiankun](https://github.com/umijs/qiankun)<br>
+2. ⭐ Starred [answershuto/learnVue](https://github.com/answershuto/learnVue)<br>
+3. ⭐ Starred [BetaSu/just-react](https://github.com/BetaSu/just-react)<br>
+4. ⭐ Starred [BetaSu/fe-hunter](https://github.com/BetaSu/fe-hunter)<br>
+5. 🔱 Forked [Ocean-H1/dodge-ball-game](https://github.com/Ocean-H1/dodge-ball-game) from [HZFE/dodger-game](https://github.com/HZFE/dodger-game)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 16th, 2023, 6:08:22 AM
+Last Updated: Friday, November 17th, 2023, 6:08:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
