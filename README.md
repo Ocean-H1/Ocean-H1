@@ -27,15 +27,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Ocean-H1/everyday-reading](https://github.com/Ocean-H1/everyday-reading)<br>
-2. ⭐ Starred [umijs/qiankun](https://github.com/umijs/qiankun)<br>
-3. ⭐ Starred [answershuto/learnVue](https://github.com/answershuto/learnVue)<br>
-4. ⭐ Starred [BetaSu/just-react](https://github.com/BetaSu/just-react)<br>
-5. ⭐ Starred [BetaSu/fe-hunter](https://github.com/BetaSu/fe-hunter)<br>
+1. ⭐ Starred [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)<br>
+2. 📔 Created new repository [Ocean-H1/everyday-reading](https://github.com/Ocean-H1/everyday-reading)<br>
+3. ⭐ Starred [umijs/qiankun](https://github.com/umijs/qiankun)<br>
+4. ⭐ Starred [answershuto/learnVue](https://github.com/answershuto/learnVue)<br>
+5. ⭐ Starred [BetaSu/just-react](https://github.com/BetaSu/just-react)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 23rd, 2023, 6:08:57 AM
+Last Updated: Friday, November 24th, 2023, 6:08:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
