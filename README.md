@@ -27,15 +27,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chokcoco/broadcastAnimation](https://github.com/chokcoco/broadcastAnimation)<br>
-2. ⭐ Starred [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)<br>
-3. 📔 Created new repository [Ocean-H1/everyday-reading](https://github.com/Ocean-H1/everyday-reading)<br>
-4. ⭐ Starred [umijs/qiankun](https://github.com/umijs/qiankun)<br>
-5. ⭐ Starred [answershuto/learnVue](https://github.com/answershuto/learnVue)<br>
+1. ⭐ Starred [hyj1991/easy-monitor](https://github.com/hyj1991/easy-monitor)<br>
+2. ⭐ Starred [chokcoco/broadcastAnimation](https://github.com/chokcoco/broadcastAnimation)<br>
+3. ⭐ Starred [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)<br>
+4. 📔 Created new repository [Ocean-H1/everyday-reading](https://github.com/Ocean-H1/everyday-reading)<br>
+5. ⭐ Starred [umijs/qiankun](https://github.com/umijs/qiankun)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 30th, 2023, 6:08:31 AM
+Last Updated: Friday, December 1st, 2023, 6:08:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
