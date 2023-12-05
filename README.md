@@ -27,15 +27,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hyj1991/easy-monitor](https://github.com/hyj1991/easy-monitor)<br>
-2. ⭐ Starred [chokcoco/broadcastAnimation](https://github.com/chokcoco/broadcastAnimation)<br>
-3. ⭐ Starred [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)<br>
-4. 📔 Created new repository [Ocean-H1/everyday-reading](https://github.com/Ocean-H1/everyday-reading)<br>
-5. ⭐ Starred [umijs/qiankun](https://github.com/umijs/qiankun)<br>
+1. ⭐ Starred [then/promise](https://github.com/then/promise)<br>
+2. ⭐ Starred [AutoPiano/AutoPiano](https://github.com/AutoPiano/AutoPiano)<br>
+3. ⭐ Starred [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)<br>
+4. ⭐ Starred [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)<br>
+5. ⭐ Starred [hyj1991/easy-monitor](https://github.com/hyj1991/easy-monitor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 4th, 2023, 6:08:59 AM
+Last Updated: Tuesday, December 5th, 2023, 6:08:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
