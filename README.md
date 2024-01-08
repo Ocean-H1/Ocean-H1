@@ -27,15 +27,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript)<br>
-2. ⭐ Starred [BetaSu/big-react](https://github.com/BetaSu/big-react)<br>
-3. ⭐ Starred [then/promise](https://github.com/then/promise)<br>
-4. ⭐ Starred [AutoPiano/AutoPiano](https://github.com/AutoPiano/AutoPiano)<br>
-5. ⭐ Starred [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)<br>
+1. ⭐ Starred [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy)<br>
+2. ⭐ Starred [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript)<br>
+3. ⭐ Starred [BetaSu/big-react](https://github.com/BetaSu/big-react)<br>
+4. ⭐ Starred [then/promise](https://github.com/then/promise)<br>
+5. ⭐ Starred [AutoPiano/AutoPiano](https://github.com/AutoPiano/AutoPiano)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 7th, 2024, 6:07:35 AM
+Last Updated: Monday, January 8th, 2024, 6:08:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
