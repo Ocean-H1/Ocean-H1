@@ -2,7 +2,7 @@
 
 ## 👋 hi，这里是 OceanH
 
-- 👦 一名 web 前端开发者(实习 ing ～) - 📍 西安
+- 👦 一名 web 前端开发者 - 📍 西安
 - 🏫 西安邮电大学 / 2024 届 / 本科在读
 - 🧐 XUPT 大数据与人工智能实验室 / web 前端小组
 - 🚀 持续学习，持续输出 ~
@@ -10,7 +10,8 @@
 
 ## 🎉 你可以从这些地方了解我...
 
-- [我的博客](https://oceanh.top)
+- [我的主页](https://oceanh.top)
+- [个人博客](https://blog.oceanh.top/)
 - [CSDN](https://blog.csdn.net/qq_51368103?spm=1000.2115.3001.5343)
 - [BiliBili](https://space.bilibili.com/382688944/favlist)
 
