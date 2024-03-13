@@ -28,15 +28,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pixijs/pixijs](https://github.com/pixijs/pixijs)<br>
-2. ⭐ Starred [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin)<br>
-3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/ohblog-v1](https://github.com/Ocean-H1/ohblog-v1)<br>
-4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed)<br>
-5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed)<br>
+1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/ohblog-v1](https://github.com/Ocean-H1/ohblog-v1)<br>
+2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/Ocean-H1](https://github.com/Ocean-H1/Ocean-H1)<br>
+3. ❗️ Opened issue [#1](https://github.com/ShaoYanHang/Graduation-project/issues/1) in [ShaoYanHang/Graduation-project](https://github.com/ShaoYanHang/Graduation-project)<br>
+4. ⭐ Starred [pixijs/pixijs](https://github.com/pixijs/pixijs)<br>
+5. ⭐ Starred [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 12th, 2024, 6:08:05 AM
+Last Updated: Wednesday, March 13th, 2024, 6:08:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
