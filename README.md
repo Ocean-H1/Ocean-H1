@@ -28,15 +28,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2](https://github.com/Ocean-H1/ohblog-v1/issues/2#issuecomment-2011811278) in [Ocean-H1/ohblog-v1](https://github.com/Ocean-H1/ohblog-v1)<br>
-2. ✔️ Closed issue [#2](https://github.com/Ocean-H1/ohblog-v1/issues/2) in [Ocean-H1/ohblog-v1](https://github.com/Ocean-H1/ohblog-v1)<br>
-3. ⭐ Starred [pwstrick/daily](https://github.com/pwstrick/daily)<br>
-4. ⭐ Starred [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app)<br>
-5. ⭐ Starred [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin)<br>
+1. ⭐ Starred [Starry-Wind/StarRailAssistant](https://github.com/Starry-Wind/StarRailAssistant)<br>
+2. ⭐ Starred [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot)<br>
+3. ⭐ Starred [wangrongding/WebCut](https://github.com/wangrongding/WebCut)<br>
+4. ⭐ Starred [liyupi/yuindex](https://github.com/liyupi/yuindex)<br>
+5. 💬 Commented on [#2](https://github.com/Ocean-H1/ohblog-v1/issues/2#issuecomment-2011811278) in [Ocean-H1/ohblog-v1](https://github.com/Ocean-H1/ohblog-v1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 26th, 2024, 6:08:48 AM
+Last Updated: Wednesday, March 27th, 2024, 6:08:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
