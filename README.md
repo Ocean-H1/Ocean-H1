@@ -3,7 +3,7 @@
 ## 👋 hi，这里是 OceanH
 
 - 👦 一名 web 前端开发者 - 📍 西安
-- 🏫 西安邮电大学 / 2024 届 / 本科在读
+- 🏫 西安邮电大学 / 2024 届
 - 🧐 XUPT 大数据与人工智能实验室 / web 前端小组
 - 🚀 持续学习，持续输出 ~
 - Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/Ocean_H1/count.svg) visitor, thank you !
