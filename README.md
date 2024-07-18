@@ -28,15 +28,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/RandomQuestion-local](https://github.com/Ocean-H1/RandomQuestion-local)<br>
-2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/RandomQuestion-local](https://github.com/Ocean-H1/RandomQuestion-local)<br>
-3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/RandomQuestion-local](https://github.com/Ocean-H1/RandomQuestion-local)<br>
+1. ⭐ Starred [liyupi/mianshiya](https://github.com/liyupi/mianshiya)<br>
+2. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+3. ⭐ Starred [antfu/shikiji](https://github.com/antfu/shikiji)<br>
 4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/RandomQuestion-local](https://github.com/Ocean-H1/RandomQuestion-local)<br>
 5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/RandomQuestion-local](https://github.com/Ocean-H1/RandomQuestion-local)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 17th, 2024, 6:09:53 AM
+Last Updated: Thursday, July 18th, 2024, 6:09:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
