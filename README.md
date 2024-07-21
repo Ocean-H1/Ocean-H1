@@ -1,8 +1,8 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ocean-H1&data=followers,repositories,stars,commits)
 
-## 👋 hi，这里是 OceanH
+## 👋 hi，这里是 Ocean Han
 
-- 👦 一名 web 前端开发者 - 📍 西安
+- 👦 一名软件开发从业者 - 📍 西安
 - 🏫 西安邮电大学 / 2024 届
 - 🧐 XUPT 大数据与人工智能实验室 / web 前端小组
 - 🚀 持续学习，持续输出 ~
