@@ -28,15 +28,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/Ocean-H1](https://github.com/Ocean-H1/Ocean-H1)<br>
-3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/homePage](https://github.com/Ocean-H1/homePage)<br>
-4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/homePage](https://github.com/Ocean-H1/homePage)<br>
-5. ⭐ Starred [liyupi/mianshiya](https://github.com/liyupi/mianshiya)<br>
+1. ⭐ Starred [mafintosh/why-is-node-running](https://github.com/mafintosh/why-is-node-running)<br>
+2. 📔 Created new repository [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
+3. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
+4. ⭐ Starred [saicaca/fuwari](https://github.com/saicaca/fuwari)<br>
+5. ⭐ Starred [shikijs/shiki](https://github.com/shikijs/shiki)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 22nd, 2024, 6:10:20 AM
+Last Updated: Tuesday, July 23rd, 2024, 6:09:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
