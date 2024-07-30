@@ -28,15 +28,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-2. ⭐ Starred [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)<br>
-3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-5. ⭐ Starred [geektutu/high-performance-go](https://github.com/geektutu/high-performance-go)<br>
+1. ⭐ Starred [xizeyoupan/Meting-API](https://github.com/xizeyoupan/Meting-API)<br>
+2. ⭐ Starred [metowolf/MetingJS](https://github.com/metowolf/MetingJS)<br>
+3. ⭐ Starred [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js)<br>
+4. ⭐ Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)<br>
+5. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 29th, 2024, 6:10:24 AM
+Last Updated: Tuesday, July 30th, 2024, 6:10:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
