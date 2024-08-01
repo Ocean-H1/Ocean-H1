@@ -18,7 +18,7 @@
 
 ## 🚀 技能 & 正在学习的
 
-[![My Skills](https://skillicons.dev/icons?i=vite,vue,react,electron,webpack,nodejs,js,ts,c)](https://github.com/Ocean-H1)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vite,vue,react,electron,webpack,nodejs,js,ts,stackoverflow,mysql,redis)](https://github.com/Ocean-H1)
 
 ![rainbow gif](https://raw.githubusercontent.com/Ocean-H1/Ocean-H1/main/profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -40,5 +40,6 @@
 Last Updated: Thursday, August 1st, 2024, 6:10:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=react&hide_border=true&card_width=500&card_height=200" alt="Ocean-H1's github stats"/>
+<img align="center" src="https://streak-stats.demolab.com?user=Ocean-H1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
