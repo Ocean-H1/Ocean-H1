@@ -28,15 +28,15 @@
 ## ⚡ 最近
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-2. ⭐ Starred [walinejs/waline](https://github.com/walinejs/waline)<br>
-3. ⭐ Starred [OrageKK/vuepress-plugin-meting2](https://github.com/OrageKK/vuepress-plugin-meting2)<br>
-4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-5. ⭐ Starred [xizeyoupan/Meting-API](https://github.com/xizeyoupan/Meting-API)<br>
+1. ⭐ Starred [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)<br>
+2. ⭐ Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)<br>
+3. ⭐ Starred [RSSNext/follow](https://github.com/RSSNext/follow)<br>
+4. ❗️ Opened issue [#8](https://github.com/Ocean-H1/blog-astro/issues/8) in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
+5. ✔️ Closed issue [#6](https://github.com/Ocean-H1/blog-astro/issues/6) in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 31st, 2024, 6:08:17 AM
+Last Updated: Thursday, August 1st, 2024, 6:10:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ocean-H1's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=buefy&hide_border=true" /> </a> |
