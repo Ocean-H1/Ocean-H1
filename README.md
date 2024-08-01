@@ -1,6 +1,6 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ocean-H1&data=followers,repositories,stars,commits)
 
-[中文](/README.md)
+[中文](/README_ZH.md)
 ## 👋 hi, there. I'm Ocean Han
 - Glad you found me!I'm a software developer currently based in China. 
 - I love learning and exploring all interesting skills!
