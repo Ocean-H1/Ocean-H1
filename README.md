@@ -29,15 +29,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)<br>
-2. ⭐ Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)<br>
-3. ⭐ Starred [RSSNext/follow](https://github.com/RSSNext/follow)<br>
-4. ❗️ Opened issue [#8](https://github.com/Ocean-H1/blog-astro/issues/8) in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-5. ✔️ Closed issue [#6](https://github.com/Ocean-H1/blog-astro/issues/6) in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
+1. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br>
+2. ⭐ Starred [astrolicious/astro-theme-provider](https://github.com/astrolicious/astro-theme-provider)<br>
+3. ❗️ Opened issue [#10](https://github.com/Ocean-H1/blog-astro/issues/10) in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
+4. ⭐ Starred [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)<br>
+5. ⭐ Starred [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 1st, 2024, 6:10:12 AM
+Last Updated: Friday, August 2nd, 2024, 6:10:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
