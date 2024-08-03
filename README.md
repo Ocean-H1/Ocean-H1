@@ -29,15 +29,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br>
-2. ⭐ Starred [astrolicious/astro-theme-provider](https://github.com/astrolicious/astro-theme-provider)<br>
-3. ❗️ Opened issue [#10](https://github.com/Ocean-H1/blog-astro/issues/10) in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-4. ⭐ Starred [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)<br>
-5. ⭐ Starred [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs)<br>
+1. ⭐ Starred [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget)<br>
+2. ✔️ Closed issue [#2](https://github.com/Ocean-H1/blog-astro/issues/2) in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
+3. ⭐ Starred [fghrsh/live2d_api](https://github.com/fghrsh/live2d_api)<br>
+4. ⭐ Starred [imuncle/live2d](https://github.com/imuncle/live2d)<br>
+5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 2nd, 2024, 6:10:54 AM
+Last Updated: Saturday, August 3rd, 2024, 6:09:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
