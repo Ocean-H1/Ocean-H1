@@ -29,15 +29,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget)<br>
-2. ✔️ Closed issue [#2](https://github.com/Ocean-H1/blog-astro/issues/2) in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-3. ⭐ Starred [fghrsh/live2d_api](https://github.com/fghrsh/live2d_api)<br>
-4. ⭐ Starred [imuncle/live2d](https://github.com/imuncle/live2d)<br>
-5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
+1. ⭐ Starred [wonder-light/wl-live2d](https://github.com/wonder-light/wl-live2d)<br>
+2. ⭐ Starred [Eikanya/Live2d-model](https://github.com/Eikanya/Live2d-model)<br>
+3. ⭐ Starred [HCLonely/live2dNodeApi](https://github.com/HCLonely/live2dNodeApi)<br>
+4. ⬆️ Pushed 3 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
+5. ⭐ Starred [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 3rd, 2024, 6:09:46 AM
+Last Updated: Sunday, August 4th, 2024, 6:08:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
