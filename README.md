@@ -29,15 +29,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/live2d-models](https://github.com/Ocean-H1/live2d-models)<br>
-3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/live2d-models](https://github.com/Ocean-H1/live2d-models)<br>
-4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/live2d-models](https://github.com/Ocean-H1/live2d-models)<br>
+1. 💬 Commented on [#74](https://github.com/oh-my-live2d/oh-my-live2d/issues/74#issuecomment-2271869538) in [oh-my-live2d/oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d)<br>
+2. ✔️ Closed issue [#74](https://github.com/oh-my-live2d/oh-my-live2d/issues/74) in [oh-my-live2d/oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d)<br>
+3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
+4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
 5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/live2d-models](https://github.com/Ocean-H1/live2d-models)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 6th, 2024, 6:11:13 AM
+Last Updated: Wednesday, August 7th, 2024, 6:10:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
