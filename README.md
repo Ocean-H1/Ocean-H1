@@ -29,15 +29,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#3](https://github.com/Ocean-H1/blog-astro/issues/3) in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-3. ⬆️ Pushed 3 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-5. ⭐ Starred [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui)<br>
+1. ⭐ Starred [Estom/notes](https://github.com/Estom/notes)<br>
+2. ⭐ Starred [Dujltqzv/Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books)<br>
+3. ⭐ Starred [Dujltqzv/Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books)<br>
+4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/homePage](https://github.com/Ocean-H1/homePage)<br>
+5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/homePage](https://github.com/Ocean-H1/homePage)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 10th, 2024, 6:08:47 AM
+Last Updated: Sunday, August 11th, 2024, 6:10:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
