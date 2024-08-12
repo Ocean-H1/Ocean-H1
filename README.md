@@ -13,7 +13,6 @@
 
 - [HomePage](https://oceanh.top)
 - [Blog](https://blog.oceanh.top/)
-- [CSDN](https://blog.csdn.net/qq_51368103?spm=1000.2115.3001.5343)
 - [BiliBili](https://space.bilibili.com/382688944/favlist)
 
 ## 🚀 Skills & What am I Learning
