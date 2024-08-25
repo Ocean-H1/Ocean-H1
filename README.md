@@ -5,7 +5,7 @@
 - Glad you found me!I'm a software developer currently based in China. 
 - I love learning and exploring all interesting skills!
 - I enjoy the process of software development and hope that through the technical implementation more value.
-- I look forward to working with excellent person.
+- I look forward to working with excellent and interesting people.
 - Outside of programming, I enjoy games and anime culture.
 - Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/Ocean_H1/count.svg) visitor, thank you !
 
