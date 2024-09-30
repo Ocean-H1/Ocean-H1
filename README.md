@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Ocean-H1/free-programming-books.pdf](https://github.com/Ocean-H1/free-programming-books.pdf) from [ailyanlu1/free-programming-books.pdf](https://github.com/ailyanlu1/free-programming-books.pdf)<br>
-2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/book-list](https://github.com/Ocean-H1/book-list)<br>
+1. ⭐ Starred [rcy1314/noisework](https://github.com/rcy1314/noisework)<br>
+2. 🔱 Forked [Ocean-H1/free-programming-books.pdf](https://github.com/Ocean-H1/free-programming-books.pdf) from [ailyanlu1/free-programming-books.pdf](https://github.com/ailyanlu1/free-programming-books.pdf)<br>
 3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/book-list](https://github.com/Ocean-H1/book-list)<br>
-4. ⭐ Starred [huajian-pro/resume-server](https://github.com/huajian-pro/resume-server)<br>
-5. ⭐ Starred [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)<br>
+4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/book-list](https://github.com/Ocean-H1/book-list)<br>
+5. ⭐ Starred [huajian-pro/resume-server](https://github.com/huajian-pro/resume-server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 29th, 2024, 6:09:57 AM
+Last Updated: Monday, September 30th, 2024, 6:11:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
