@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OpenWebGAL/WebGAL_Terre](https://github.com/OpenWebGAL/WebGAL_Terre)<br>
-2. ⭐ Starred [wan-h/awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d)<br>
-3. ⭐ Starred [tw93/Pake](https://github.com/tw93/Pake)<br>
-4. ⭐ Starred [umijs/father](https://github.com/umijs/father)<br>
-5. ⭐ Starred [umijs/fabric](https://github.com/umijs/fabric)<br>
+1. ⭐ Starred [jestjs/jest](https://github.com/jestjs/jest)<br>
+2. ⭐ Starred [OpenWebGAL/WebGAL_Terre](https://github.com/OpenWebGAL/WebGAL_Terre)<br>
+3. ⭐ Starred [wan-h/awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d)<br>
+4. ⭐ Starred [tw93/Pake](https://github.com/tw93/Pake)<br>
+5. ⭐ Starred [umijs/father](https://github.com/umijs/father)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 16th, 2024, 6:10:18 AM
+Last Updated: Sunday, November 17th, 2024, 6:11:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
