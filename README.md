@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)<br>
-2. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
-3. ⭐ Starred [jestjs/jest](https://github.com/jestjs/jest)<br>
-4. ⭐ Starred [OpenWebGAL/WebGAL_Terre](https://github.com/OpenWebGAL/WebGAL_Terre)<br>
-5. ⭐ Starred [wan-h/awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d)<br>
+1. ⭐ Starred [fkling/astexplorer](https://github.com/fkling/astexplorer)<br>
+2. ⭐ Starred [fancyapps/fancybox](https://github.com/fancyapps/fancybox)<br>
+3. ⭐ Starred [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)<br>
+4. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
+5. ⭐ Starred [jestjs/jest](https://github.com/jestjs/jest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 23rd, 2024, 6:11:26 AM
+Last Updated: Sunday, November 24th, 2024, 6:10:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
