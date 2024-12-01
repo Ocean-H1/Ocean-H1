@@ -11,7 +11,7 @@
 
 ## 🎉 You can find me through the following ways:
 
-- [HomePage](https://oceanh.top)
+- [Profile](https://oceanh.top)
 - [Blog](https://blog.oceanh.top/)
 - [BiliBili](https://space.bilibili.com/382688944/favlist)
 
