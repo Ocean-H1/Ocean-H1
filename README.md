@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PDKSophia/blog.io](https://github.com/PDKSophia/blog.io)<br>
-2. ⭐ Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)<br>
-3. ⭐ Starred [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)<br>
-4. ⭐ Starred [me115/design_patterns](https://github.com/me115/design_patterns)<br>
-5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/profile](https://github.com/Ocean-H1/profile)<br>
+1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
+2. ⭐ Starred [PDKSophia/blog.io](https://github.com/PDKSophia/blog.io)<br>
+3. ⭐ Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)<br>
+4. ⭐ Starred [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)<br>
+5. ⭐ Starred [me115/design_patterns](https://github.com/me115/design_patterns)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 6th, 2025, 6:11:52 AM
+Last Updated: Friday, February 7th, 2025, 6:11:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
