@@ -29,14 +29,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-2. ⭐ Starred [PDKSophia/blog.io](https://github.com/PDKSophia/blog.io)<br>
-3. ⭐ Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)<br>
-4. ⭐ Starred [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)<br>
-5. ⭐ Starred [me115/design_patterns](https://github.com/me115/design_patterns)<br>
+2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed)<br>
+3. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)<br>
+4. ⭐ Starred [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2)<br>
+5. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 7th, 2025, 6:11:58 AM
+Last Updated: Saturday, February 8th, 2025, 6:09:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
