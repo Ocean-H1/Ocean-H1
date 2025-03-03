@@ -29,14 +29,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
-2. ⭐ Starred [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa)<br>
-3. ⭐ Starred [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)<br>
-4. ⭐ Starred [ant-design/x](https://github.com/ant-design/x)<br>
-5. ⭐ Starred [Auto-Plugin/autofit.js](https://github.com/Auto-Plugin/autofit.js)<br>
+2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
+3. ⭐ Starred [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa)<br>
+4. ⭐ Starred [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)<br>
+5. ⭐ Starred [ant-design/x](https://github.com/ant-design/x)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 2nd, 2025, 6:10:43 AM
+Last Updated: Monday, March 3rd, 2025, 6:14:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
