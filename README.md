@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font)<br>
-2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
-3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
-4. ⭐ Starred [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)<br>
-5. ⭐ Starred [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)<br>
+1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/profile](https://github.com/Ocean-H1/profile)<br>
+2. ⬆️ Pushed 3 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
+3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed)<br>
+4. ⭐ Starred [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font)<br>
+5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 12th, 2025, 6:12:23 AM
+Last Updated: Thursday, March 13th, 2025, 6:12:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
