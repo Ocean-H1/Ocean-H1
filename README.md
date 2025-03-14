@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/profile](https://github.com/Ocean-H1/profile)<br>
-2. ⬆️ Pushed 3 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed)<br>
-4. ⭐ Starred [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font)<br>
-5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
+1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/AgileDesign](https://github.com/Ocean-H1/AgileDesign)<br>
+2. ⭐ Starred [egoist/tsup](https://github.com/egoist/tsup)<br>
+3. ⭐ Starred [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs)<br>
+4. ⭐ Starred [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs)<br>
+5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/profile](https://github.com/Ocean-H1/profile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 13th, 2025, 6:12:31 AM
+Last Updated: Friday, March 14th, 2025, 6:12:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
