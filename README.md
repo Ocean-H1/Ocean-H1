@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
-2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/profile](https://github.com/Ocean-H1/profile)<br>
-3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
-4. ⭐ Starred [changesets/changesets](https://github.com/changesets/changesets)<br>
-5. ⭐ Starred [lerna/lerna](https://github.com/lerna/lerna)<br>
+1. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)<br>
+2. ⭐ Starred [standard/standard](https://github.com/standard/standard)<br>
+3. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)<br>
+4. ⭐ Starred [refly-ai/refly](https://github.com/refly-ai/refly)<br>
+5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 15th, 2025, 6:10:43 AM
+Last Updated: Sunday, March 16th, 2025, 6:10:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
