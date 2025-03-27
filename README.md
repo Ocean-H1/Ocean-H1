@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/pixie-ui](https://github.com/Ocean-H1/pixie-ui)<br>
+1. ⭐ Starred [reactjs/react-transition-group](https://github.com/reactjs/react-transition-group)<br>
 2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/pixie-ui](https://github.com/Ocean-H1/pixie-ui)<br>
-3. ⭐ Starred [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)<br>
-4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/pixie-ui](https://github.com/Ocean-H1/pixie-ui)<br>
+3. ⬆️ Pushed 3 commit(s) to [Ocean-H1/pixie-ui](https://github.com/Ocean-H1/pixie-ui)<br>
+4. ⭐ Starred [996icu/996.ICU](https://github.com/996icu/996.ICU)<br>
 5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/pixie-ui](https://github.com/Ocean-H1/pixie-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 26th, 2025, 6:12:31 AM
+Last Updated: Thursday, March 27th, 2025, 6:12:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
