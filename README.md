@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2](https://github.com/Ocean-H1/pixie-ui/issues/2) in [Ocean-H1/pixie-ui](https://github.com/Ocean-H1/pixie-ui)<br>
-2. ⬆️ Pushed 2 commit(s) to [Ocean-H1/pixie-ui](https://github.com/Ocean-H1/pixie-ui)<br>
-3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/pixie-ui](https://github.com/Ocean-H1/pixie-ui)<br>
-4. ⬆️ Pushed 2 commit(s) to [Ocean-H1/pixie-ui](https://github.com/Ocean-H1/pixie-ui)<br>
-5. ⭐ Starred [Fentaniao/Liquid](https://github.com/Fentaniao/Liquid)<br>
+1. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)<br>
+2. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
+3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
+4. ❗️ Opened issue [#2](https://github.com/Ocean-H1/pixie-ui/issues/2) in [Ocean-H1/pixie-ui](https://github.com/Ocean-H1/pixie-ui)<br>
+5. ⬆️ Pushed 2 commit(s) to [Ocean-H1/pixie-ui](https://github.com/Ocean-H1/pixie-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 31st, 2025, 6:13:16 AM
+Last Updated: Tuesday, April 1st, 2025, 6:13:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
