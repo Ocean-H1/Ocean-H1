@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)<br>
-2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
-3. ⭐ Starred [netdata/netdata](https://github.com/netdata/netdata)<br>
-4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
-5. ⭐ Starred [idosal/git-mcp](https://github.com/idosal/git-mcp)<br>
+1. ⭐ Starred [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)<br>
+2. ⭐ Starred [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)<br>
+3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
+4. ⭐ Starred [netdata/netdata](https://github.com/netdata/netdata)<br>
+5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 16th, 2025, 6:13:19 AM
+Last Updated: Thursday, April 17th, 2025, 6:12:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
