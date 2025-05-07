@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BingyanStudio/github-analyzer](https://github.com/BingyanStudio/github-analyzer)<br>
-2. ⭐ Starred [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar)<br>
-3. ⭐ Starred [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)<br>
-4. ⭐ Starred [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)<br>
-5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
+1. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
+2. ⭐ Starred [BingyanStudio/github-analyzer](https://github.com/BingyanStudio/github-analyzer)<br>
+3. ⭐ Starred [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar)<br>
+4. ⭐ Starred [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)<br>
+5. ⭐ Starred [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 6th, 2025, 6:13:21 AM
+Last Updated: Wednesday, May 7th, 2025, 6:13:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
