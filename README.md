@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
-2. ⭐ Starred [BingyanStudio/github-analyzer](https://github.com/BingyanStudio/github-analyzer)<br>
-3. ⭐ Starred [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar)<br>
-4. ⭐ Starred [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)<br>
-5. ⭐ Starred [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)<br>
+1. ⭐ Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)<br>
+2. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
+3. ⭐ Starred [BingyanStudio/github-analyzer](https://github.com/BingyanStudio/github-analyzer)<br>
+4. ⭐ Starred [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar)<br>
+5. ⭐ Starred [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 9th, 2025, 6:13:51 AM
+Last Updated: Saturday, May 10th, 2025, 6:11:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
