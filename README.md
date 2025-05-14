@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)<br>
-2. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
-3. ⭐ Starred [BingyanStudio/github-analyzer](https://github.com/BingyanStudio/github-analyzer)<br>
-4. ⭐ Starred [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar)<br>
-5. ⭐ Starred [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)<br>
+1. ⭐ Starred [FlashShifter/StardewValleyExpanded](https://github.com/FlashShifter/StardewValleyExpanded)<br>
+2. ⭐ Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)<br>
+3. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
+4. ⭐ Starred [BingyanStudio/github-analyzer](https://github.com/BingyanStudio/github-analyzer)<br>
+5. ⭐ Starred [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 13th, 2025, 6:13:32 AM
+Last Updated: Wednesday, May 14th, 2025, 6:13:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
