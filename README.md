@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Floogen/Stardrop](https://github.com/Floogen/Stardrop)<br>
-2. ⭐ Starred [FlashShifter/StardewValleyExpanded](https://github.com/FlashShifter/StardewValleyExpanded)<br>
-3. ⭐ Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)<br>
-4. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
-5. ⭐ Starred [BingyanStudio/github-analyzer](https://github.com/BingyanStudio/github-analyzer)<br>
+1. ⭐ Starred [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI)<br>
+2. ⭐ Starred [Floogen/Stardrop](https://github.com/Floogen/Stardrop)<br>
+3. ⭐ Starred [FlashShifter/StardewValleyExpanded](https://github.com/FlashShifter/StardewValleyExpanded)<br>
+4. ⭐ Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)<br>
+5. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 22nd, 2025, 6:14:01 AM
+Last Updated: Friday, May 23rd, 2025, 6:13:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
