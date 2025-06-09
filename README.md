@@ -32,11 +32,10 @@
 2. ⭐ Starred [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI)<br>
 3. ⭐ Starred [Floogen/Stardrop](https://github.com/Floogen/Stardrop)<br>
 4. ⭐ Starred [FlashShifter/StardewValleyExpanded](https://github.com/FlashShifter/StardewValleyExpanded)<br>
-5. ⭐ Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 8th, 2025, 6:12:40 AM
+Last Updated: Monday, June 9th, 2025, 6:14:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
