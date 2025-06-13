@@ -31,11 +31,10 @@
 1. ⭐ Starred [recon88/Multi-Save-Continued](https://github.com/recon88/Multi-Save-Continued)<br>
 2. ⭐ Starred [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI)<br>
 3. ⭐ Starred [Floogen/Stardrop](https://github.com/Floogen/Stardrop)<br>
-4. ⭐ Starred [FlashShifter/StardewValleyExpanded](https://github.com/FlashShifter/StardewValleyExpanded)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 12th, 2025, 6:14:21 AM
+Last Updated: Friday, June 13th, 2025, 6:13:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
