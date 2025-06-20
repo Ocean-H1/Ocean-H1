@@ -30,11 +30,10 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [recon88/Multi-Save-Continued](https://github.com/recon88/Multi-Save-Continued)<br>
 2. ⭐ Starred [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI)<br>
-3. ⭐ Starred [Floogen/Stardrop](https://github.com/Floogen/Stardrop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 19th, 2025, 6:14:15 AM
+Last Updated: Friday, June 20th, 2025, 6:14:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
