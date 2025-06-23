@@ -31,11 +31,10 @@
 1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
 2. ⭐ Starred [datawhalechina/coze-ai-assistant](https://github.com/datawhalechina/coze-ai-assistant)<br>
 3. ⭐ Starred [recon88/Multi-Save-Continued](https://github.com/recon88/Multi-Save-Continued)<br>
-4. ⭐ Starred [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 22nd, 2025, 6:12:46 AM
+Last Updated: Monday, June 23rd, 2025, 6:15:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
