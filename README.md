@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync)<br>
-2. ⭐ Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)<br>
-3. ⭐ Starred [marcuswestin/store.js](https://github.com/marcuswestin/store.js)<br>
-4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
-5. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+1. ⭐ Starred [czy0729/Bangumi](https://github.com/czy0729/Bangumi)<br>
+2. ⭐ Starred [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync)<br>
+3. ⭐ Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)<br>
+4. ⭐ Starred [marcuswestin/store.js](https://github.com/marcuswestin/store.js)<br>
+5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 16th, 2025, 6:15:11 AM
+Last Updated: Thursday, July 17th, 2025, 6:15:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
