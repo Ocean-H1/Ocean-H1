@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport)<br>
-2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/todo-list](https://github.com/Ocean-H1/todo-list)<br>
-3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/todo-list](https://github.com/Ocean-H1/todo-list)<br>
+1. ⭐ Starred [YanCchen/YCursor](https://github.com/YanCchen/YCursor)<br>
+2. ⭐ Starred [element-plus-x/ruoyi-element-ai](https://github.com/element-plus-x/ruoyi-element-ai)<br>
+3. ⭐ Starred [evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport)<br>
 4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/todo-list](https://github.com/Ocean-H1/todo-list)<br>
 5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/todo-list](https://github.com/Ocean-H1/todo-list)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 5th, 2025, 6:13:49 AM
+Last Updated: Saturday, September 6th, 2025, 6:11:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
