@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/todo-list](https://github.com/Ocean-H1/todo-list)<br>
+1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/live2d-models](https://github.com/Ocean-H1/live2d-models)<br>
 2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/todo-list](https://github.com/Ocean-H1/todo-list)<br>
 3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/todo-list](https://github.com/Ocean-H1/todo-list)<br>
-4. ⭐ Starred [ZHO-ZHO-ZHO/Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary)<br>
-5. ⭐ Starred [YanCchen/YCursor](https://github.com/YanCchen/YCursor)<br>
+4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/todo-list](https://github.com/Ocean-H1/todo-list)<br>
+5. ⭐ Starred [ZHO-ZHO-ZHO/Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 11th, 2025, 6:13:32 AM
+Last Updated: Friday, September 12th, 2025, 6:13:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
