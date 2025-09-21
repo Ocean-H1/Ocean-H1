@@ -28,15 +28,15 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed)<br>
-2. ⭐ Starred [liunnn1994/You-Dont-Know-JS-zh-CN](https://github.com/liunnn1994/You-Dont-Know-JS-zh-CN)<br>
-3. ⭐ Starred [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)<br>
-4. ⬆️ Pushed 1 commit(s) to [Ocean-H1/live2d-models](https://github.com/Ocean-H1/live2d-models)<br>
-5. ⬆️ Pushed 1 commit(s) to [Ocean-H1/todo-list](https://github.com/Ocean-H1/todo-list)<br>
+1. ⭐ Starred [ZHO-ZHO-ZHO/BananaFace](https://github.com/ZHO-ZHO-ZHO/BananaFace)<br>
+2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
+3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed)<br>
+4. ⭐ Starred [liunnn1994/You-Dont-Know-JS-zh-CN](https://github.com/liunnn1994/You-Dont-Know-JS-zh-CN)<br>
+5. ⭐ Starred [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 20th, 2025, 6:11:32 AM
+Last Updated: Sunday, September 21st, 2025, 6:12:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
