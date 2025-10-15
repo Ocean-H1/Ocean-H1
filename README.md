@@ -29,14 +29,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [ZHO-ZHO-ZHO/BananaFace](https://github.com/ZHO-ZHO-ZHO/BananaFace)<br>
-2. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
-3. ⬆️ Pushed 1 commit(s) to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed)<br>
-4. ⭐ Starred [liunnn1994/You-Dont-Know-JS-zh-CN](https://github.com/liunnn1994/You-Dont-Know-JS-zh-CN)<br>
-5. ⭐ Starred [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)<br>
+2. ⬆️ Pushed undefined commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
+3. ⬆️ Pushed undefined commit(s) to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed)<br>
+4. ⭐ Starred [ljianshu/Blog](https://github.com/ljianshu/Blog)<br>
+5. ⭐ Starred [liunnn1994/You-Dont-Know-JS-zh-CN](https://github.com/liunnn1994/You-Dont-Know-JS-zh-CN)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 14th, 2025, 6:14:34 AM
+Last Updated: Wednesday, October 15th, 2025, 6:14:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
