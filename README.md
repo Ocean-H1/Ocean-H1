@@ -32,11 +32,10 @@
 2. ⬆️ Pushed undefined commit(s) to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro)<br>
 3. ⬆️ Pushed undefined commit(s) to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed)<br>
 4. ⭐ Starred [ljianshu/Blog](https://github.com/ljianshu/Blog)<br>
-5. ⭐ Starred [liunnn1994/You-Dont-Know-JS-zh-CN](https://github.com/liunnn1994/You-Dont-Know-JS-zh-CN)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 16th, 2025, 6:14:33 AM
+Last Updated: Friday, October 17th, 2025, 6:13:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
