@@ -30,12 +30,12 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [chinaBerg/awesome-canvas](https://github.com/chinaBerg/awesome-canvas)<br>
 2. ⭐ Starred [mabDc/eso](https://github.com/mabDc/eso)<br>
-3. 🔱 Forked [Ocean-H1/any-reader](https://github.com/Ocean-H1/any-reader) from [Ocean-H1/any-reader](https://github.com/Ocean-H1/any-reader)<br>
+3. 🔱 Forked [Ocean-H1/any-reader](https://github.com/Ocean-H1/any-reader) from [aooiuu/any-reader](https://github.com/aooiuu/any-reader)<br>
 4. ⭐ Starred [aooiuu/any-reader](https://github.com/aooiuu/any-reader)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 1st, 2025, 6:16:55 AM
+Last Updated: Tuesday, December 2nd, 2025, 6:16:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
