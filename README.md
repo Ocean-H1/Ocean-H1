@@ -29,13 +29,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [chinaBerg/awesome-canvas](https://github.com/chinaBerg/awesome-canvas)<br>
-2. ⭐ Starred [mabDc/eso](https://github.com/mabDc/eso)<br>
-3. 🔱 Forked [Ocean-H1/any-reader](https://github.com/Ocean-H1/any-reader) from [aooiuu/any-reader](https://github.com/aooiuu/any-reader)<br>
-4. ⭐ Starred [aooiuu/any-reader](https://github.com/aooiuu/any-reader)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 4th, 2025, 6:15:27 AM
+Last Updated: Friday, December 5th, 2025, 6:15:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
