@@ -29,11 +29,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Ocean-H1/todo-list](https://github.com/Ocean-H1/todo-list)<br>
-2. ⭐ Starred [chinaBerg/awesome-canvas](https://github.com/chinaBerg/awesome-canvas)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 8th, 2025, 6:17:26 AM
+Last Updated: Tuesday, December 9th, 2025, 6:15:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
