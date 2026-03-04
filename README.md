@@ -12,7 +12,6 @@
 
 - [Profile](https://oceanh.top)
 - [Blog](https://blog.oceanh.top/)
-- [BiliBili](https://space.bilibili.com/382688944/favlist)
 
 ## 🚀 Skills & What am I Learning
 
