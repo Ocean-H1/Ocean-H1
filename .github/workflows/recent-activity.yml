@@ -7,12 +7,12 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["main"]}
 jobs:
-  github-metrics:
+  build-activity:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
-    permissions:
+    name: Update Recent Activity
+    permissions: 
       contents: write
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -23,4 +23,3 @@ jobs:
           plugin_activity_limit: 6
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
-
