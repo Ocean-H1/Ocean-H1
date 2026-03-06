@@ -1,19 +1,26 @@
-name: Update Activity
+name: Update GitHub Activity
+
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    name: Update this repo's README with recent activity
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    - cron: "*/30 * * * *" # Runs every 30 minutes
+  workflow_dispatch: # Allows manual triggering
 
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update GitHub Activity
+        uses: TheDanniCraft/activity-log@v1
         with:
-          MAX_LINES: 6
+          GITHUB_USERNAME: "oceanhhan"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EVENT_LIMIT: 8
+          HIDE_DETAILS_ON_PRIVATE_REPOS: true
+          EVENT_EMOJI_MAP: |
+            PushEvent: "⬆️"
+            CreateEvent: "✨"
+            DeleteEvent: "🔥"
+            IssuesEvent: |
+              opened: "🆕"
+              closed: "✅"
