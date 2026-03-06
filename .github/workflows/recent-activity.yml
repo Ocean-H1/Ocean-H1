@@ -14,7 +14,7 @@ jobs:
         uses: TheDanniCraft/activity-log@v1
         with:
           GITHUB_USERNAME: "oceanhhan"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
           EVENT_LIMIT: 8
           HIDE_DETAILS_ON_PRIVATE_REPOS: true
           EVENT_EMOJI_MAP: |
