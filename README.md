@@ -25,10 +25,9 @@
 ![snake gif](https://raw.githubusercontent.com/Ocean-H1/Ocean-H1/output/github-contribution-grid-snake.svg)
 
 ## ⚡ Recent Activity
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocean-H1&layout=compact&theme=react&hide_border=true&card_width=400&card_height=200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ocean-H1&show_icons=true&include_all_commits=true&theme=react&hide_border=true&card_width=500&card_height=200" alt="Ocean-H1's github stats"/>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <img align="center" src="https://streak-stats.demolab.com?user=Ocean-H1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
