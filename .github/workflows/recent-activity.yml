@@ -13,10 +13,9 @@ jobs:
       - name: Update GitHub Activity
         uses: TheDanniCraft/activity-log@v1
         with:
-          GITHUB_USERNAME: "oceanhhan"
+          GITHUB_USERNAME: "Ocean-H1"
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
           EVENT_LIMIT: 8
-          HIDE_DETAILS_ON_PRIVATE_REPOS: true
           EVENT_EMOJI_MAP: |
             PushEvent: "⬆️"
             CreateEvent: "✨"
