@@ -12,6 +12,7 @@
 
 - [Profile](https://oceanh.top)
 - [Blog](https://blog.oceanh.top/)
+- [X](https://x.com/oceanhhan)
 
 ## 🚀 Skills & What am I Learning
 
