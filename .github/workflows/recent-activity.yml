@@ -1,23 +1,19 @@
-name: Metrics
+name: Update Activity
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["main"]}
 jobs:
-  build-activity:
+  build:
+    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
-    name: Update Recent Activity
+    permissions:
+      contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 6
-          plugin_activity_days: 14
-          plugin_activity_filter: push, star
+          MAX_LINES: 6
