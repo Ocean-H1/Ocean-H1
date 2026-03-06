@@ -12,7 +12,7 @@ jobs:
     name: Update Recent Activity
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@4.23.0
         with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
