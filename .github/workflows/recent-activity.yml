@@ -18,5 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 6
-          plugin_activity_days: 14
+          plugin_activity_limit: 5
+          plugin_activity_days: 7  # 限制7天范围，避免空数据
+          plugin_activity_filter: all  # 先兼容所有活动类型
+          plugin_activity_skipped: yes  # 容错：允许跳过无数据的情况
