@@ -10,8 +10,6 @@ jobs:
   build-activity:
     runs-on: ubuntu-latest
     name: Update Recent Activity
-    permissions: 
-      contents: write
 
     steps:
       - uses: lowlighter/metrics@latest
@@ -21,4 +19,4 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 6
-          plugin_activity_days: 0
+          plugin_activity_days: 14
