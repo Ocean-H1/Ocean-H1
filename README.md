@@ -19,10 +19,6 @@
 
 ![rainbow gif](https://raw.githubusercontent.com/Ocean-H1/Ocean-H1/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-## 🐍 Contribution-grid-snake
-
-![snake gif](https://raw.githubusercontent.com/Ocean-H1/Ocean-H1/output/github-contribution-grid-snake.svg)
-
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
