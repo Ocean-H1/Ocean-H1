@@ -20,14 +20,14 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Committed to a private repo
-2. ✨ Created a new branch `master` in a private repo
-3. ⭐ Starred [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-4. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
-5. ⭐ Starred [junegunn/fzf](https://github.com/junegunn/fzf)
-6. ⭐ Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-7. ⭐ Starred [TanStack/query](https://github.com/TanStack/query)
-8. ⭐ Starred [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+1. ⭐ Starred [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
+2. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+3. ⬆️ Committed to a private repo
+4. ✨ Created a new branch `master` in a private repo
+5. ⭐ Starred [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+6. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
+7. ⭐ Starred [junegunn/fzf](https://github.com/junegunn/fzf)
+8. ⭐ Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
 <!--END_SECTION:activity-->
 
 <img align="center" src="https://streak-stats.demolab.com?user=Ocean-H1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
