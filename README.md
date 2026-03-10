@@ -20,14 +20,14 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-2. ⭐ Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-3. ⭐ Starred [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw)
-4. ⬆️ Committed to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/68220b4fc98a1c06c1f5a7e335e4a01abd89a62a)
-5. ⬆️ Committed to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/7006cce5b3832f1aafc97fcc7603da10a5680bc5)
-6. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
-7. ⭐ Starred [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
-8. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+1. ⭐ Starred [mswjs/msw](https://github.com/mswjs/msw)
+2. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+3. ⭐ Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+4. ⭐ Starred [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw)
+5. ⬆️ Committed to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/68220b4fc98a1c06c1f5a7e335e4a01abd89a62a)
+6. ⬆️ Committed to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/7006cce5b3832f1aafc97fcc7603da10a5680bc5)
+7. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+8. ⭐ Starred [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
 <!--END_SECTION:activity-->
 
 <img align="center" src="https://streak-stats.demolab.com?user=Ocean-H1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
