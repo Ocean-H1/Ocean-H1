@@ -20,14 +20,14 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
-2. ⭐ Starred [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
-3. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
-4. ⬆️ Committed to a private repo
-5. ✨ Created a new branch `master` in a private repo
-6. ⭐ Starred [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-7. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
-8. ⭐ Starred [junegunn/fzf](https://github.com/junegunn/fzf)
+1. ⭐ Starred [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw)
+2. ⬆️ Committed to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/68220b4fc98a1c06c1f5a7e335e4a01abd89a62a)
+3. ⬆️ Committed to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/7006cce5b3832f1aafc97fcc7603da10a5680bc5)
+4. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+5. ⭐ Starred [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
+6. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+7. ⬆️ Committed to a private repo
+8. ✨ Created a new branch `master` in a private repo
 <!--END_SECTION:activity-->
 
 <img align="center" src="https://streak-stats.demolab.com?user=Ocean-H1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
