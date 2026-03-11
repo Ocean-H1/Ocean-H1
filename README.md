@@ -20,14 +20,14 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-2. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)
-3. ⭐ Starred [faker-js/faker](https://github.com/faker-js/faker)
-4. ⭐ Starred [mswjs/msw](https://github.com/mswjs/msw)
-5. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-6. ⭐ Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-7. ⭐ Starred [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw)
-8. ⬆️ Committed to main in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/68220b4fc98a1c06c1f5a7e335e4a01abd89a62a)
+1. ⬆️ Committed to master in [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection/commit/0ec0a259b2fc459775162b32a6b7b7fa0d836184)
+2. ⭐ Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+3. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+4. ⭐ Starred [faker-js/faker](https://github.com/faker-js/faker)
+5. ⭐ Starred [mswjs/msw](https://github.com/mswjs/msw)
+6. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+7. ⭐ Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+8. ⭐ Starred [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw)
 <!--END_SECTION:activity-->
 
 <img align="center" src="https://streak-stats.demolab.com?user=Ocean-H1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
