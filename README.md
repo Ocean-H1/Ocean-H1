@@ -25,8 +25,8 @@
 3. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 4. ⭐ Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 5. ⭐ Starred [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw)
-6. ⬆️ Committed to [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/68220b4fc98a1c06c1f5a7e335e4a01abd89a62a)
-7. ⬆️ Committed to [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/7006cce5b3832f1aafc97fcc7603da10a5680bc5)
+6. ⬆️ Committed to main in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/68220b4fc98a1c06c1f5a7e335e4a01abd89a62a)
+7. ⬆️ Committed to master in [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/7006cce5b3832f1aafc97fcc7603da10a5680bc5)
 8. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
 <!--END_SECTION:activity-->
 
