@@ -20,14 +20,14 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm)
-2. ⭐ Starred [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)
-3. ⭐ Starred [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector)
-4. ⭐ Starred [antfu/skills](https://github.com/antfu/skills)
-5. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
-6. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)
-7. ⭐ Starred [azl397985856/fe-interview](https://github.com/azl397985856/fe-interview)
-8. ⬆️ Committed to main in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/09f8323bb0aa881a5f84cc7dad16c21ba159e605)
+1. ⭐ Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+2. ⭐ Starred [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli)
+3. ⭐ Starred [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm)
+4. ⭐ Starred [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)
+5. ⭐ Starred [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector)
+6. ⭐ Starred [antfu/skills](https://github.com/antfu/skills)
+7. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+8. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)
 <!--END_SECTION:activity-->
 
 <img align="center" src="https://streak-stats.demolab.com?user=Ocean-H1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
