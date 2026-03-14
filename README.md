@@ -20,14 +20,14 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Committed to main in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/751581f475af4c34c5ab23645a1ea63adfc023c4)
-2. ⬆️ Committed to master in [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/1fa928e644c97c5eb2fcca80ab7a4e5e17171df5)
-3. ⬆️ Committed to master in [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/2ec3548f387923bfff8c518eeb4188d9e8ae11a3)
-4. ⬆️ Committed to master in [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/567e8be50e15af4380c6bec17d172beba37072f9)
-5. ⬆️ Committed to master in [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/e5cd81f64e12cce7e5f1f8b0ba02796428d8a9d4)
-6. ⬆️ Committed to master in [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/8f0289f874502c2e54141e457c1fa3bf87f3065a)
-7. ⬆️ Committed to master in [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/77108c1947fc3bbea471604b0b1e546d461ee501)
-8. ⭐ Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+1. ⬆️ Committed to main in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/c8414b6a99655f3c88848b0bf6e9c3b8ccb16c32)
+2. ⬆️ Committed to main in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/387375ba07e270a1cd39626dd4633a3bfa8509fb)
+3. ⬆️ Committed to main in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/751581f475af4c34c5ab23645a1ea63adfc023c4)
+4. ⬆️ Committed to master in [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/1fa928e644c97c5eb2fcca80ab7a4e5e17171df5)
+5. ⬆️ Committed to master in [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/2ec3548f387923bfff8c518eeb4188d9e8ae11a3)
+6. ⬆️ Committed to master in [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/567e8be50e15af4380c6bec17d172beba37072f9)
+7. ⬆️ Committed to master in [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/e5cd81f64e12cce7e5f1f8b0ba02796428d8a9d4)
+8. ⬆️ Committed to master in [Ocean-H1/blog_image_bed](https://github.com/Ocean-H1/blog_image_bed/commit/8f0289f874502c2e54141e457c1fa3bf87f3065a)
 <!--END_SECTION:activity-->
 
 <img align="center" src="https://streak-stats.demolab.com?user=Ocean-H1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
