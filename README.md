@@ -27,7 +27,6 @@
 5. ⬆️ Committed to main in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/fb33c7ef374efc8ed47fe878792361f748d93102)
 6. ⬆️ Committed to main in [Ocean-H1/blog-astro](https://github.com/Ocean-H1/blog-astro/commit/a2fd3bbe3f260826f1b2ba8cd3e8e36691a04a03)
 7. ⬆️ Committed to master in [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection/commit/379f890c093d52d2ca0670d77cb65fe147354619)
-8. ⬆️ Committed to master in [Ocean-H1/interview-collection](https://github.com/Ocean-H1/interview-collection/commit/9a04ac315f8ccc6e6bdafa37b1126525318df2a1)
 <!--END_SECTION:activity-->
 
 <img align="center" src="https://streak-stats.demolab.com?user=Ocean-H1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
