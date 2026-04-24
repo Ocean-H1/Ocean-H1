@@ -23,7 +23,6 @@
 1. ✅ Closed issue #9 in [qianxun345/luoke](https://github.com/qianxun345/luoke/issues/9)
 2. 🆕 Opened issue #9 in [qianxun345/luoke](https://github.com/qianxun345/luoke/issues/9)
 3. ⭐ Starred [qianxun345/luoke](https://github.com/qianxun345/luoke)
-4. ⭐ Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
 <!--END_SECTION:activity-->
 
 <img align="center" src="https://streak-stats.demolab.com?user=Ocean-H1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
