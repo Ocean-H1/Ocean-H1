@@ -20,7 +20,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [whoisnian/rocom-pets](https://github.com/whoisnian/rocom-pets)
+1. ⭐ Starred [AnkioTomas/qqpet](https://github.com/AnkioTomas/qqpet)
+2. ⭐ Starred [whoisnian/rocom-pets](https://github.com/whoisnian/rocom-pets)
 <!--END_SECTION:activity-->
 
 <img align="center" src="https://streak-stats.demolab.com?user=Ocean-H1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
