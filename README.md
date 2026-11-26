@@ -20,8 +20,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release v3.6.12 in [Ocean-H1/InputTip](https://github.com/Ocean-H1/InputTip/releases/tag/v3.6.12)
-2. ⭐ Starred [cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com)
+1. 🔥 Deleted a tag v3.6.12 in [Ocean-H1/InputTip](https://github.com/Ocean-H1/InputTip)
+2. 🚀 Published release v3.6.12 in [Ocean-H1/InputTip](https://github.com/Ocean-H1/InputTip/releases/tag/v3.6.12)
+3. ⭐ Starred [cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com)
 <!--END_SECTION:activity-->
 
 <img align="center" src="https://streak-stats.demolab.com?user=Ocean-H1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
